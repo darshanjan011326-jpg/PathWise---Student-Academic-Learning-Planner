@@ -1,0 +1,6 @@
+{
+  "name": "PathWise - Student Academic & Learning Planner",
+  "description": "Plan Today, Build Tomorrow. A modern academic planner and DSA roadmap tracker crafted for students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
